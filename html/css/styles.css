@@ -1,0 +1,48 @@
+body{
+    margin: 0;
+    padding: 0;
+}
+.contrainer{
+    width: 90%;
+    margin: auto;
+}
+.icon-area ul{
+    list-style: none;
+
+}
+.icon-area ul li{
+    display: inline-flex;
+   
+}
+.icon-area ul li{
+    background: rgb(216, 216, 216);
+    color: rgb(218, 213, 213);
+    font-size: 80px;
+    padding: 8px 12px;
+    display: inline-flex;
+    border-radius: 35px;
+    margin: 10px;
+}
+.icon-area ul li a:hover{
+    background: rgb(206, 97, 97);
+    color: papayawhip;
+    border-radius: 30px;
+    transition: 2.7s;
+    background-color: rgb(74, 94, 55);
+    
+}
+.demo{
+    text-align: center;
+}
+.btn{
+ text-decoration: rgb(202, 175, 175);
+}
+ .button{
+     width: 90px;
+     height: 40px;
+    text-align: center;
+    color: rgb(7, 99, 48);
+    text-decoration:rgb(116, 231, 21) ;
+    display: block;
+
+}
